@@ -1,0 +1,1 @@
+* 2csXhhr-App_BancoABC/Properties/Resources.Designer.cs

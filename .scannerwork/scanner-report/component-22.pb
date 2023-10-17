@@ -1,0 +1,1 @@
+ 2csXhrIApp_BancoABC/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs

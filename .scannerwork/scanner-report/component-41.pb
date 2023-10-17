@@ -1,0 +1,1 @@
+) 2csX%hr'App_BancoABC/Properties/AssemblyInfo.cs
