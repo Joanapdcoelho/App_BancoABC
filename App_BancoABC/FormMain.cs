@@ -76,7 +76,7 @@ namespace App_BancoABC
             toolStripStatusLabel1.Text = "Criar Ficheiro ";
             OpenFileDialog openDialog = new OpenFileDialog
             {
-                InitialDirectory = @"C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_02_03_2023",
+                InitialDirectory = @"C:\Users\joana\Dropbox\Cinel_CET_TPSI74\5413_POO\Aplicações\App_BancoABC_final",
                 CheckFileExists = true,
                 CheckPathExists = false,
                 DefaultExt = "txt",
@@ -188,7 +188,7 @@ namespace App_BancoABC
             int i;
             toolStripStatusLabel1.Text = "Gerar ficheiro XML";
 
-            string XPathXML = "C:\\Users\\joana\\Dropbox\\Cinel_TPSI CET.TPSI.N.L.74\\5413_POO\\Aplicações\\App_BancoABC_02_03_2023\\Contas.xml";
+            string XPathXML = "C:\\Users\\joana\\Dropbox\\Cinel_CET_TPSI74\\5413_POO\\Aplicações\\App_BancoABC_final";
             //Verificar se o array tem dados
             if (XLength > 0)
             {

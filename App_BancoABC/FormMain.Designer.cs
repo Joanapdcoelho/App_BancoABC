@@ -148,7 +148,7 @@
             // 
             this.CriarToolStripMenuItem.Name = "CriarToolStripMenuItem";
             this.CriarToolStripMenuItem.Size = new System.Drawing.Size(270, 40);
-            this.CriarToolStripMenuItem.Text = "&Criar";
+            this.CriarToolStripMenuItem.Text = "&Abrir";
             this.CriarToolStripMenuItem.Click += new System.EventHandler(this.CriarToolStripMenuItem_Click);
             // 
             // toolStripSeparator3
@@ -160,7 +160,7 @@
             // 
             this.AbrirToolStripMenuItem.Name = "AbrirToolStripMenuItem";
             this.AbrirToolStripMenuItem.Size = new System.Drawing.Size(270, 40);
-            this.AbrirToolStripMenuItem.Text = "&Abrir";
+            this.AbrirToolStripMenuItem.Text = "&Criar";
             this.AbrirToolStripMenuItem.Click += new System.EventHandler(this.AbrirToolStripMenuItem_Click);
             // 
             // GuardarToolStripMenuItem
